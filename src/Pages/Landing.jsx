@@ -72,14 +72,6 @@ export default function Landing() {
             </section>
 
 
-
-            <section className="bg-[#5A2A0C] p-6 rounded-lg shadow-lg mb-8">
-                <p className="bg-[#5A2A0C] bg-opacity-75 text-white p-4 rounded-lg shadow-lg text-center">
-                    Jelajah adalah fitur yang memungkinkan pengguna merasakan pengalaman eksplorasi virtual ke berbagai habitat alami Indonesia. Nikmati keindahan alam dan kehidupan satwa liar sambil memahami keanekaragaman hayati Indonesia. Melalui gambar dan informasi yang disajikan, pengguna dapat menjelajahi hutan, pantai, dan ekosistem lainnya, seolah-olah mereka berada di lokasi tersebut. Fitur ini mendorong kita untuk mengabadikan momen indah dan mendukung upaya pelestarian.
-                </p>
-            </section>
-
-
             <section className="bg-gray-200 p-6 rounded-lg shadow-lg mb-8">
                 <p className="text-center text-lg">
                     SiSatwa berkomitmen untuk melindungi satwa liar Indonesia melalui edukasi, pelaporan, dan aksi konservasi. Bersama, kita dapat menjaga keberagaman satwa endemik dan melawan perdagangan ilegal. Mari bergabung dalam upaya menciptakan masa depan yang lebih baik untuk satwa dan ekosistem kita.
