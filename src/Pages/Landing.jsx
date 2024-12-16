@@ -71,22 +71,7 @@ export default function Landing() {
                 </div>
             </section>
 
-            <section className="relative mb-8">
-                <img src="assets/BG3.jpg" alt="Forest exploration" className="w-full h-64 object-cover rounded-lg shadow-lg" />
-                <div className="absolute top-4 left-1/2 transform -translate-x-1/2">
-                    <h2 className="bg-black bg-opacity-50 text-white p-4 rounded-lg shadow-lg text-center flex-grow">
-                        <span className="text-3xl font-bold">JELAJAH</span>
-                    </h2>
-                </div>
-                <div className="absolute top-32 left-1/2 transform -translate-x-1/2 flex items-center space-x-4">
-                    <button className="bg-blue-600 text-white p-3 rounded-lg shadow-lg flex items-center transition-transform transform hover:scale-105 hover:bg-blue-700">
-                        <i className="fas fa-camera text-3xl"></i>
-                    </button>
-                    <button className="bg-blue-600 text-white p-3 rounded-lg shadow-lg flex items-center transition-transform transform hover:scale-105 hover:bg-blue-700">
-                        <i className="fas fa-search text-3xl"></i>
-                    </button>
-                </div>
-            </section>
+
 
             <section className="bg-[#5A2A0C] p-6 rounded-lg shadow-lg mb-8">
                 <p className="bg-[#5A2A0C] bg-opacity-75 text-white p-4 rounded-lg shadow-lg text-center">
