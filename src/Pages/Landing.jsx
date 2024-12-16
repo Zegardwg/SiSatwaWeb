@@ -16,7 +16,7 @@ export default function Landing() {
                 </div>
                 <div className="w-full md:w-1/3 mt-6 mb-6">
                     <div className="bg-white p-4 shadow-lg rounded-lg">
-                        <img src="/src/assets/Pelaporan.png" alt="Gambar satwa liar" className="w-full mb-4 rounded-md object-cover h-48 md:h-auto" />
+                        <img src="assets/Pelaporan.png" alt="Gambar satwa liar" className="w-full mb-4 rounded-md object-cover h-48 md:h-auto" />
                         <h2 className="text-2xl font-bold mb-2">Pelaporan</h2>
                         <p className="text-sm mb-4">
                             Lindungi satwa Indonesia! Laporkan perdagangan ilegal melalui platform ini untuk informasi cepat ke BKSDA, demi kelestarian satwa dan ekosistem kita.
@@ -31,7 +31,7 @@ export default function Landing() {
             </main>
 
             <section className="relative mb-8">
-                <img src="src/assets/Tiger.png" alt="Tiger in the forest" className="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" />
+                <img src="assets/Tiger.png" alt="Tiger in the forest" className="w-full h-64 md:h-96 object-cover rounded-lg shadow-lg" />
                 <div className="absolute bottom-4 left-4 p-2 rounded-lg" style={{ backgroundColor: "#5A2A0C" }}>
                     <div className="bg-opacity-75 text-white p-4 rounded-lg shadow-lg">
                         <h2 className="text-xl md:text-2xl font-bold mb-2">What's News</h2>
@@ -49,7 +49,7 @@ export default function Landing() {
                 <h2 className="text-2xl font-bold mb-4 text-center">Pelajari Tentang Satwa Endemik dan Satwa Invasif</h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 justify-center items-center">
                     <div className="bg-white p-4 rounded-lg shadow-lg flex flex-col items-center">
-                        <img src="src/assets/Endemik.webp" alt="Satwa Endemik Indonesia" className="w-full h-[300px] object-cover rounded-lg mb-4" />
+                        <img src="assets/Endemik.webp" alt="Satwa Endemik Indonesia" className="w-full h-[300px] object-cover rounded-lg mb-4" />
                         <h3 className="text-xl font-bold mb-2 text-center">Satwa Endemik Indonesia</h3>
                         <p className="text-sm mb-2 text-center">
                             Kenali berbagai jenis satwa endemik Indonesia dan peran mereka dalam menjaga keseimbangan ekosistem.
@@ -59,7 +59,7 @@ export default function Landing() {
                         </button>
                     </div>
                     <div className="bg-white p-4 rounded-lg shadow-lg flex flex-col items-center">
-                        <img src="src/assets/Invasif.webp" alt="Satwa Invasif" className="w-full h-[300px] object-cover rounded-lg mb-4" />
+                        <img src="assets/Invasif.webp" alt="Satwa Invasif" className="w-full h-[300px] object-cover rounded-lg mb-4" />
                         <h3 className="text-xl font-bold mb-2 text-center">Satwa Invasif</h3>
                         <p className="text-sm mb-2 text-center">
                             Pelajari tentang spesies invasif yang mengancam ekosistem lokal dan bagaimana kita bisa membantu.
@@ -72,7 +72,7 @@ export default function Landing() {
             </section>
 
             <section className="relative mb-8">
-                <img src="src/assets/BG3.jpg" alt="Forest exploration" className="w-full h-64 object-cover rounded-lg shadow-lg" />
+                <img src="assets/BG3.jpg" alt="Forest exploration" className="w-full h-64 object-cover rounded-lg shadow-lg" />
                 <div className="absolute top-4 left-1/2 transform -translate-x-1/2">
                     <h2 className="bg-black bg-opacity-50 text-white p-4 rounded-lg shadow-lg text-center flex-grow">
                         <span className="text-3xl font-bold">JELAJAH</span>
